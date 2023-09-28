@@ -1,0 +1,72 @@
+{
+  "users": {
+    "6283142624255@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6282144323683@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": null
+    },
+    "6281323155337@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "group": {},
+  "chats": {
+    "6283142624255@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false,
+      "antipanel": false
+    },
+    "6282144323683@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false,
+      "antipanel": false
+    },
+    "120363165437872053@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false,
+      "antipanel": false
+    },
+    "120363165863695421@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antilinkv2": false,
+      "antipanel": false
+    }
+  },
+  "tebakgambar": [],
+  "database": {},
+  "settings": {
+    "6283142624255@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    }
+  },
+  "donate": {},
+  "others": {},
+  "sticker": {},
+  "game": {},
+  "anonymous": {}
+}
